@@ -26,3 +26,4 @@ C:\APIcafeteria\obj\Debug\net10.0\refint\APIcafeteria.dll
 C:\APIcafeteria\obj\Debug\net10.0\APIcafeteria.pdb
 C:\APIcafeteria\obj\Debug\net10.0\APIcafeteria.genruntimeconfig.cache
 C:\APIcafeteria\obj\Debug\net10.0\ref\APIcafeteria.dll
+C:\APIcafeteria\obj\Debug\net10.0\APIcafeteria.sourcelink.json
